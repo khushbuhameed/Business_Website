@@ -22,7 +22,6 @@ Please adhere to this project's `code of conduct`.
 - [@live site here](https://khushbuhameed.github.io/Business_Website/)
 ## Tech Stack
 
-**Client:** html, CSS 
-
+(https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png);
 
 
