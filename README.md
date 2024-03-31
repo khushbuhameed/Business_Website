@@ -22,6 +22,7 @@ Please adhere to this project's `code of conduct`.
 - [@live site here](https://khushbuhameed.github.io/Business_Website/)
 ## Tech Stack
 
-![logo](https://yukiyuriweb.com/wp/wp-content/uploads/2021/04/HTML-CSS.png)
+
+<img src ="https://yukiyuriweb.com/wp/wp-content/uploads/2021/04/HTML-CSS.png" height ="200px" width "300px">
 
 
