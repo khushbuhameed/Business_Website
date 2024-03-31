@@ -23,4 +23,4 @@ Please adhere to this project's `code of conduct`.
 
 # Technology Used:
 <img align="left" src ="https://yukiyuriweb.com/wp/wp-content/uploads/2021/04/HTML-CSS.png" height="300" width = "400">
-<img src ="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" height="200" width = "300">
+<img src ="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png" height="200" width = "300">
