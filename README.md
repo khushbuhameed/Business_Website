@@ -23,6 +23,6 @@ Please adhere to this project's `code of conduct`.
 ## Tech Stack
 
 
-<img src ="https://yukiyuriweb.com/wp/wp-content/uploads/2021/04/HTML-CSS.png" height="300" width = "300">
+<img src ="https://yukiyuriweb.com/wp/wp-content/uploads/2021/04/HTML-CSS.png" height="300" width = "400">
 
 
