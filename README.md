@@ -22,5 +22,5 @@ Please adhere to this project's `code of conduct`.
 - [@live site here](https://khushbuhameed.github.io/Business_Website/)
 
 # Technology Used:
-<img align="left" src ="https://yukiyuriweb.com/wp/wp-content/uploads/2021/04/HTML-CSS.png" height="300" width = "300">
-<img src ="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" height="300" width = "400">
+<img align="left" src ="https://yukiyuriweb.com/wp/wp-content/uploads/2021/04/HTML-CSS.png" height="300" width = "400">
+<img src ="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" height="300" width = "300">
