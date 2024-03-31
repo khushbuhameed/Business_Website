@@ -22,6 +22,6 @@ Please adhere to this project's `code of conduct`.
 - [@live site here](https://khushbuhameed.github.io/Business_Website/)
 ## Tech Stack
 
-![logo](https://logowik.com/content/uploads/images/css3-html51661.jpg)
+![logo]
 
 
